@@ -10,59 +10,79 @@
 
 ---
 
-🚀 **Fullstack Developer | Automation Enthusiast | Open Source Learner**  
-💡 Fokus pada pengembangan **Web App, Bot, dan Sistem Otomatisasi**
+🚀 **Backend-Oriented Developer | Automation & Bot Engineer**  
+⚙️ Membangun sistem yang **bisa jalan sendiri, stabil, dan scalable**
 
 ---
 
-## 🧑‍💻 About Me
-- 🔭 Mengembangkan **script, bot, dan web-based system**
-- 🌱 Mendalami **JavaScript, Node.js, MongoDB**
-- 🤖 Spesialis **Bot Telegram & Automation**
-- ⚙️ Fokus ke **Backend, API, dan Database**
-- 🇮🇩 Indonesia
+## 🧠 Who Am I (Straight to the Point)
+Gue developer yang fokus ke **backend logic, automation, dan database-driven system**.  
+Bukan cuma bikin “jalan”, tapi **bisa dipakai lama tanpa drama**.
+
+**Yang gue kejar:**
+- Kode rapi & terstruktur  
+- Logic jelas, bukan tambal-sulam  
+- Sistem tahan dipakai real user  
 
 ---
 
-## 🛠️ Tech Stack
+## 🔥 What I Actually Do
+- 🤖 Build **Telegram & WhatsApp Bot**
+- ⚙️ Develop **Automation Script & Backend Service**
+- 🔐 Handle **Auth, API, dan Database Architecture**
+- 🧩 Design **Logic System yang scalable**
+- 🗄️ MongoDB schema yang niat, bukan asal simpan data
 
-### 💻 Programming & Tools
-![JavaScript](https://img.shields.io/badge/JavaScript-333?style=for-the-badge&logo=javascript)
-![Node.js](https://img.shields.io/badge/Node.js-333?style=for-the-badge&logo=node.js)
-![MongoDB](https://img.shields.io/badge/MongoDB-333?style=for-the-badge&logo=mongodb)
-![Express](https://img.shields.io/badge/Express.js-333?style=for-the-badge&logo=express)
-![HTML5](https://img.shields.io/badge/HTML5-333?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-333?style=for-the-badge&logo=css3)
+🇮🇩 Based in Indonesia
 
 ---
 
-## 📌 Featured Projects
-- 🤖 Telegram Bot System
-- 🛒 Digital Product Store (MongoDB)
-- ⚙️ Automation & Backend Script
-- 🔐 Auth, API & Database System
+## 🛠️ Tech Stack (Daily Weapon)
 
-> Semua project dibuat dengan standar **stabil, rapi, dan siap production**
+### 💻 Core Stack
+![JavaScript](https://img.shields.io/badge/JavaScript-111?style=for-the-badge&logo=javascript)
+![Node.js](https://img.shields.io/badge/Node.js-111?style=for-the-badge&logo=node.js)
+![MongoDB](https://img.shields.io/badge/MongoDB-111?style=for-the-badge&logo=mongodb)
+![Express](https://img.shields.io/badge/Express.js-111?style=for-the-badge&logo=express)
+
+### 🌐 Frontend (Support)
+![HTML5](https://img.shields.io/badge/HTML5-111?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-111?style=for-the-badge&logo=css3)
+
+---
+
+## 🚀 Featured Works
+- 🤖 **Automation Bot System** (Telegram / WhatsApp)
+- 🛒 **Digital Product & Payment System**
+- 🔐 **Auth, Role & Permission System**
+- ⚙️ **Backend Script & API Service**
+- 🗄️ **MongoDB-Based Data System**
+
+> Semua project difokuskan ke **stability, maintainability, dan logic yang masuk akal**
 
 ---
 
 ## 📊 GitHub Stats
-![Arfi's GitHub stats](https://github-readme-stats.vercel.app/api?username=arfiputraramadhan&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=arfiputraramadhan&show_icons=true&theme=tokyonight">
+</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arfiputraramadhan&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arfiputraramadhan&layout=compact&theme=tokyonight">
+</p>
 
 ---
 
-## 🌐 Connect With Me
-- 🌍 GitHub: [github.com/arfiputraramadhan](https://github.com/arfiputraramadhan)
+## 🌐 Get in Touch
+- 🌍 GitHub: https://github.com/arfiputraramadhan
 - 📧 Email: **arfiofficial@arfi.web.id**
 
 ---
 
-## 🐍 Contribution Snake
+## 🐍 Contribution Activity
 ![Snake animation](https://github.com/arfiputraramadhan/arfiputraramadhan/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
-⭐ _"Code, Build, Automate, Repeat."_  
-Thanks for visiting my profile!
+⭐ **Code smart. Build solid. Automate everything.**  
+Thanks for stopping by.
