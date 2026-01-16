@@ -62,25 +62,11 @@ Bukan cuma bikin “jalan”, tapi **bisa dipakai lama tanpa drama**.
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arfiputraramadhan&show_icons=true&theme=tokyonight">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arfiputraramadhan&layout=compact&theme=tokyonight">
-</p>
-
 ---
 
 ## 🌐 Get in Touch
 - 🌍 GitHub: https://github.com/arfiputraramadhan
 - 📧 Email: **arfiofficial@arfi.web.id**
-
----
-
-## 🐍 Contribution Activity
-![Snake animation](https://github.com/arfiputraramadhan/arfiputraramadhan/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
